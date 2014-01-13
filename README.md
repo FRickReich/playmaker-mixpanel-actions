@@ -12,8 +12,8 @@ Todo
 ====
 
 - Add multiple Event sender.
-- create UnityPackage for this project.
-- add Tutorial.
+- Create UnityPackage for this project.
+- Add Tutorial.
 
 ## License
 Copyright (c) 2013 F. Rick Reich. Licensed under the terms of the MIT license.
